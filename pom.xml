@@ -29,13 +29,13 @@
   <parent>
     <groupId>org.joelson.turf</groupId>
     <artifactId>hibernate-h2</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
   </parent>
 
   <properties>
     <org.jfree.jfreechart.version>1.5.4</org.jfree.jfreechart.version>
-    <org.joelson.turf.persistence-utilities.version>0.1-SNAPSHOT</org.joelson.turf.persistence-utilities.version>
-    <org.joelson.turf.resources.version>0.1-SNAPSHOT</org.joelson.turf.resources.version>
+    <org.joelson.turf.persistence-utilities.version>1.0.0</org.joelson.turf.persistence-utilities.version>
+    <org.joelson.turf.resources.version>1.0.0</org.joelson.turf.resources.version>
   </properties>
 
   <build>
